@@ -1,0 +1,3 @@
+# Day 4
+
+My motivation for for learning is so that I can have the means to live a satisfying life. I want a career that will challenge my mind and give me the ability to elevate myself in accordance with the amount of effort I put in. I know from experience that jobs that do not stimulate me intellectually are not fulfilling. Having a job that aligns with my strengths and rewards hard work is my motivation for being here.

@@ -3,6 +3,7 @@
 Today we learned about boxes in CSS, loops, and conditionals. In the discussion of the conditionals, we had a complex condition that reminded me of DeMorgan's law:
 
 `!x && !y === !(x || y)`
+
 `!x || !y === !(x && y)`
 
 Assuming x and y are booleans, these should both evaluate to true.
