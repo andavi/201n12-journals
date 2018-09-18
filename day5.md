@@ -1,6 +1,6 @@
 # Day 5 - The Why's
 
-It is important as an adult learner to know why you are learning something. This is true as it results to the larger - as in why am I doing web development - and the smaller - as in why do we use git - why. 
+It is important as an adult learner to know why you are learning something. This is true as it results to the larger - as in why am I doing web development - and the smaller - as in why do we use git - why's. 
 
 ## Large Why
 
