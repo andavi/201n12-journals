@@ -4,7 +4,7 @@ It is important as an adult learner to know why you are learning something. This
 
 ## Large Why
 
-I want a better life for myself, i.e. the opportunity to better my situation, progress in a career, and have autonomy and control in my life.
+I want a better life for myself, i.e. the opportunity to improve my situation, progress in a career, and have autonomy and control in my life.
 
 ## Small Why
 
