@@ -1,0 +1,3 @@
+# Day 7 - Adapting
+
+The most unexpected part of this journey so far is the focus on networking right from the start. Luckily I am in a good place to be able to give that attention because I feel good about my understanding of the basics.  However it is hard for me because I am brand new to this city, and breaking out of my introversion isn't exactly my forte. This is an area that I need to give more attention to if I am going to be successful.
